@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int numero, RestoDivCentena, RestoDivDezena, ValorInvertido;
     float inteiroDivCentena, inteiroDivDezena;
 
